@@ -1,0 +1,38 @@
+# Environment & Secrets
+.env
+*.json          
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / Build
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ADK specific
+.adk/
+
+# Jupyter / Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
